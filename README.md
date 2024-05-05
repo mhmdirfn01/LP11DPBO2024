@@ -26,4 +26,5 @@ skin.html: Template HTML dasar yang digunakan untuk menampilkan halaman.
 ![Screenshot 2024-05-05 230535](https://github.com/mhmdirfn01/LP11DPBO2024/assets/145920545/a0dc8acb-e751-45bf-9d0e-9358d5417f20)
 ![Screenshot 2024-05-05 230619](https://github.com/mhmdirfn01/LP11DPBO2024/assets/145920545/e9731997-14f6-4da1-a70f-7e166b86793d)
 ![Screenshot 2024-05-05 230505](https://github.com/mhmdirfn01/LP11DPBO2024/assets/145920545/63385bea-0911-41d3-a32c-c0e9d23e138d)
+![image](https://github.com/mhmdirfn01/LP11DPBO2024/assets/145920545/1157e006-e1e0-41e4-8a22-0bdcc8bfe5d8)
 
